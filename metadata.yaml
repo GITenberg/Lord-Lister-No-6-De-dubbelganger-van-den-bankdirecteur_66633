@@ -1,0 +1,29 @@
+_repo: Lord-Lister-No-6-De-dubbelganger-van-den-bankdirecteur_66633
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Matull, Kurt
+    birthdate: 1872
+    gutenberg_agent_id: '40698'
+    url: http://www.gutenberg.org/2009/agents/40698
+    wikipedia: https://de.wikipedia.org/wiki/Kurt_Matull
+  - agent_name: Blankensee, Theo von
+    aliases:
+    - Blakensee, Theo
+    - Blank, Matthias
+    birthdate: 1881
+    deathdate: 1928
+    gutenberg_agent_id: '53456'
+    url: http://www.gutenberg.org/2009/agents/53456
+description: ''
+gutenberg_issued: '2021-10-30'
+identifiers:
+  gutenberg: '66633'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Lord Lister No. 6: De dubbelganger van den bankdirecteur'
+url: http://www.gutenberg.org/ebooks/66633
